@@ -6,8 +6,9 @@
         xmlns:local="clr-namespace:_1"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <Grid RenderTransformOrigin="0.394,0.493">
 
         <Button Width="60" Height="50" x:Name="hi1" >xin</Button>
+        <Button Height="50" x:Name="hi2" RenderTransformOrigin="-0.379,1.759" Margin="199,184,472,185" >xin</Button>
     </Grid>
 </Window>
