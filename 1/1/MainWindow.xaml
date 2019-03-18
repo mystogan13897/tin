@@ -8,6 +8,6 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
 
-        <Button Width="60" Height="50" x:Name="hi" >chào</Button>
+        <Button Width="60" Height="50" x:Name="hi" >xin</Button>
     </Grid>
 </Window>
